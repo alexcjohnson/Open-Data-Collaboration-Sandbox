@@ -24,5 +24,10 @@ Please add in examples below, using this format:
 ## Recipes 
 * [Total Spending by Sector](https://raw.github.com/gbinal/plotly-experiments/master/grid/total_spending.csv)- ([Plot.ly - Initial Screen](https://plot.ly/external/?url=https://raw.github.com/gbinal/plotly-experiments/master/grid/total_spending.csv))  
 
+## New Header
 
+* here's a new bullet point
+* and another
+
+whee!
 
